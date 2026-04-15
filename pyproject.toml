@@ -1,0 +1,6 @@
+[project]
+name = "cv-architecture-sprint-cifar"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["src"]

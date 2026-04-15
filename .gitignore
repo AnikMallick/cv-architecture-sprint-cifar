@@ -1,3 +1,6 @@
+# big data
+data/raw/cifar-10-python.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
