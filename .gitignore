@@ -5,7 +5,7 @@ data/raw/cifar-10-python.tar
 __pycache__/
 *.py[codz]
 *$py.class
-
+extra/
 # C extensions
 *.so
 
